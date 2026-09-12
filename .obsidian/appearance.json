@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Chalkboard",
+  "textFontFamily": "Chalkboard",
+  "baseFontSizeAction": true
+}

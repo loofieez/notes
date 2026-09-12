@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1246657399c96c28",
+        "id": "bdd9c10fe07940ad",
         "type": "tabs",
         "children": [
           {
-            "id": "1b024f1ef4b8caee",
+            "id": "f202ccbecb7a681d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,24 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93db1e661661be50",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "59b9e6f3de53d69b",
             "type": "leaf",
             "state": {
@@ -162,6 +144,34 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "24aa51af483321ad",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "2368b81ac51d8321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ]
       }
@@ -172,15 +182,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "graph:Open graph view": false,
+      "bases:Create new base": true
     }
   },
-  "active": "1b024f1ef4b8caee",
-  "lastOpenFiles": []
+  "active": "fd71057bb78a7a17",
+  "lastOpenFiles": [
+    "50 Bookmarks",
+    "40 NoteBooks",
+    "30 Templates",
+    "20 Random",
+    "10 Metas",
+    "00 Bases"
+  ]
 }

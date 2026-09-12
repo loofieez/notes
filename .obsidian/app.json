@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "trashOption": "local",
+  "uriCallbacks": true
+}
