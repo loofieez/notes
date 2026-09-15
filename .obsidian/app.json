@@ -4,5 +4,8 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": false,
   "trashOption": "local",
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "c-random",
+  "attachmentFolderPath": "b-metas/d-attachments"
 }
